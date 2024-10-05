@@ -5,14 +5,14 @@ page_title: Hotly:Dating AI Characters
 ios_app_id: 1234793120 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country: us # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
-appstore_link: https://apps.apple.com/tr/app/soulfi-selfcare-mental-health/id6468658743 # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link: https://play.google.com/store/apps/details?id=com.soulfi.app&hl=en # Enter Google Play Store URL.
+appstore_link: "" # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+playstore_link: "" # Enter Google Play Store URL.
 presskit_download_link:
 
 app_icon: assets/appicon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name: Hotly # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: Experience AI romance with Hotly! Chat with unique AI characters, build virtual relationships, and explore digital love. Your perfect AI date is just a tap away!.
+app_description: Experience AI romance with Hotly! Chat with unique AI characters, build virtual relationships, and explore digital love. Your perfect AI date is just a tap away!
 
 enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
 
