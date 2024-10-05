@@ -1,3 +1,9 @@
+---
+layout: page
+title: Privacy Policy
+include_in_header: false
+---
+
 **Privacy Policy**
 
 This privacy policy applies to the Hotly : Dating AI Characters app (hereby referred to as "Application") for mobile devices that was created by MERT KUTUKCU (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
