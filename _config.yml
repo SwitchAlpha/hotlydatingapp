@@ -8,27 +8,25 @@ ios_app_country: us # Required outside USA. Enter 2 letter country code as in ht
 appstore_link: https://apps.apple.com/tr/app/soulfi-selfcare-mental-health/id6468658743 # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link: https://play.google.com/store/apps/details?id=com.soulfi.app&hl=en # Enter Google Play Store URL.
 presskit_download_link:
-  https://emilbaehr.com # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
-  # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon: assets/appicon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name: Hotly # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: Hotly is a dating app that uses AI to help you find your perfect match.
+app_description: Experience AI romance with Hotly! Chat with unique AI characters, build virtual relationships, and explore digital love. Your perfect AI date is just a tap away!.
 
 enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
 
 # Information About Yourself
 your_name: Hotly
-your_link: https://hotly.ai
+your_link: https://mertkutukcu07.github.io/automatic-app-landing-page/
 your_city: Antalya, Turkey
 email_address: hotlydatingapp@gmail.com
 facebook_username:
-instagram_username: hotlyai
-twitter_username: ebaehr
-github_username: emilbaehr
+instagram_username: merttkutukcu
+twitter_username: mertkutukcu07
+github_username: merttkutukcu07
 youtube_username:
-mastodon_link: https://mastodon.social/@ebaehr
+mastodon_link: ""
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
