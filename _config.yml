@@ -48,7 +48,7 @@ features:
 
   - title: Voice Call Feature
     description: Connect with AI characters through immersive voice calls.
-    fontawesome_icon_name: phone-alt
+    fontawesome_icon_name: phone
 
   - title: Diverse AI Personalities
     description: Explore a wide range of unique AI characters and personalities.
@@ -81,7 +81,7 @@ feature_title_color: "#000000"
 feature_text_color: "#666666"
 
 feature_icons_foreground_color: "#E91E63"
-feature_icons_background_color: "#e0e0e0"
+feature_icons_background_color: "#f5f5f5"
 
 social_icons_foreground_color: "#666666"
 social_icons_background_color: "#e6e6e6"
