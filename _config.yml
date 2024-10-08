@@ -46,6 +46,14 @@ features:
     description: Tailored advice boosts your dating confidence.
     fontawesome_icon_name: user-friends
 
+  - title: Voice Call Feature
+    description: Connect with AI characters through immersive voice calls.
+    fontawesome_icon_name: phone-alt
+
+  - title: Diverse AI Personalities
+    description: Explore a wide range of unique AI characters and personalities.
+    fontawesome_icon_name: robot
+
   - title: # New Feature Title
     description: # New Feature Description
     fontawesome_icon_name: # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
@@ -73,7 +81,7 @@ feature_title_color: "#000000"
 feature_text_color: "#666666"
 
 feature_icons_foreground_color: "#E91E63"
-feature_icons_background_color: "#e6e6e6"
+feature_icons_background_color: "#e0e0e0"
 
 social_icons_foreground_color: "#666666"
 social_icons_background_color: "#e6e6e6"
