@@ -18,13 +18,13 @@ enable_smart_app_banner: true # Set to true to show a smart app banner at top of
 
 # Information About Yourself
 your_name: Hotly
-your_link: https://mertkutukcu07.github.io/automatic-app-landing-page/
-your_city: Antalya, Turkey
-email_address: hotlydatingapp@gmail.com
+your_link: https://hotly.hugosoftware.net/
+your_city: Istanbul, Turkey
+email_address: supporthotly@hugosoftware.net
 facebook_username:
-instagram_username: merttkutukcu
-twitter_username: mertkutukcu07
-github_username: merttkutukcu07
+instagram_username: hugosoftware
+twitter_username: hugosoftware
+github_username: hugosoftware
 youtube_username:
 mastodon_link: ""
 
