@@ -6,7 +6,7 @@ include_in_header: false
 
 **Terms & Conditions**
 
-These terms and conditions apply to the Hotly: Dating AI Characters app (hereinafter referred to as "Application") for mobile devices created by MERT KUTUKCU (hereinafter referred to as "Service Provider") as a Freemium service.
+These terms and conditions apply to the Hotly: Dating AI Characters app (hereinafter referred to as "Application") for mobile devices created by KAYHAN YALCIN (hereinafter referred to as "Service Provider") as a Freemium service.
 
 By downloading or using the Application, you automatically agree to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application.
 
