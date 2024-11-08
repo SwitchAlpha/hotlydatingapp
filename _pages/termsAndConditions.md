@@ -51,4 +51,4 @@ By downloading or using the Application, you automatically agree to the followin
 These terms and conditions are effective as of 2024-10-05.
 
 **Contact Us**
-If you have any questions or suggestions about the Terms and Conditions, please contact the Service Provider at hotlydatingapp@gmail.com.
+If you have any questions or suggestions about the Terms and Conditions, please contact the Service Provider at hotlysupport@hugosoftware.net.
