@@ -29,7 +29,7 @@ Thank you for using the Hotly app! If you have any questions or need assistance,
 
 If you couldn't find the answer to your question in our FAQ, please don't hesitate to reach out to us directly.
 
-- **Email:** hotlysupport@hugosoftware.net
+- **Email:** support@hugosoftware.net
 - **Response Time:** We aim to respond to all inquiries within 24-48 hours.
 
 ## Feedback
