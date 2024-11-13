@@ -39,6 +39,7 @@ Please note that the Application utilizes third-party services that have their o
 - [One Signal](https://onesignal.com/privacy_policy)
 - [Expo](https://expo.io/privacy)
 - [RevenueCat](https://www.revenuecat.com/privacy)
+- [AppsFlyer](https://www.appsflyer.com/trust/privacy/)
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
@@ -76,6 +77,6 @@ By using the Application, you are consenting to the processing of your informati
 
 **Contact Us**
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at hotlysupport@hugosoftware.net.
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at support@hugosoftware.net.
 
 ---
