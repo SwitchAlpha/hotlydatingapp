@@ -34,6 +34,7 @@ By downloading or using the Application, you automatically agree to the followin
    - [One Signal](https://onesignal.com/tos)
    - [Expo](https://expo.io/terms)
    - [RevenueCat](https://www.revenuecat.com/terms)
+   - [AppsFlyer](https://www.appsflyer.com/trust/privacy/)
 
 5. **Limitation of Liability**
 
