@@ -49,7 +49,7 @@ By downloading or using the Application, you automatically agree to the followin
 7. **Changes to Terms and Conditions**
    - The Service Provider may update these Terms and Conditions periodically. You are advised to review this page regularly for any changes.
 
-These terms and conditions are effective as of 2024-10-05.
+These terms and conditions are effective as of 2024-11-13.
 
 **Contact Us**
-If you have any questions or suggestions about the Terms and Conditions, please contact the Service Provider at hotlysupport@hugosoftware.net.
+If you have any questions or suggestions about the Terms and Conditions, please contact the Service Provider at support@hugosoftware.net.
